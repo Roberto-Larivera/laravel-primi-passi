@@ -15,19 +15,17 @@
         <div class="row row-cols-1 h-100 d-flex flex-column justify-content-center align-items-center">
             <div class="col text-center pb-5">
                 <h1>
-                    Hello Word in <span class="text-danger">
-                        < Laravel />
-                    </span>!
+                    Il mio GitHub <a class="text-decoration-none text-danger" href="https://github.com/Roberto-Larivera">@Roberto-Larivera</a>!
                 </h1>
-                <i class="fa-brands fa-laravel fa-5x text-danger"></i>
+                <i class="fa-brands fa-github fa-5x text-danger"></i>
             </div>
             <div class="col d-flex justify-content-center">
                 <ul class="nav nav-pills">
                     <li class="nav-item">
-                        <a class="nav-link active bg-danger" aria-current="home" href="/">Home</a>
+                        <a class="nav-link text-danger"  href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-danger" href="/contact">Contatto GitHub</a>
+                        <a class="nav-link active bg-danger" aria-current="contact" href="/contact">Contatto GitHub</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link  text-danger" href="#">Link</a>
