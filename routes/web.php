@@ -19,6 +19,9 @@ Route::get('/welcome', function () {
 Route::get('/', function () {
     return view('home');
 });
-Route::get('/contact', function () {
-    return view('mygithub');
+Route::get('/contact-git', function () {
+    return view('myGithub');
+});
+Route::get('/contact-linkedin', function () {
+    return view('myLinkedin');
 });
